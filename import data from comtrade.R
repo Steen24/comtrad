@@ -23,7 +23,7 @@
 # library(readr)
 # library(readxl)
 # install.packages('xlsx')
-library(xlsx)
+# library(xlsx)
 
 # import data -------------------------------------------------------------
 
